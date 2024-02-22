@@ -1,0 +1,25 @@
+{
+  "name": "shortlog",
+  "version": "1.0.0",
+  "description": "do console.log() with just log()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sninea/shortLog.git"
+  },
+  "keywords": [
+    "console.log",
+    "console",
+    "log",
+    "short log"
+  ],
+  "author": "Sooraj Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sninea/shortLog/issues"
+  },
+  "homepage": "https://github.com/sninea/shortLog#readme"
+}
