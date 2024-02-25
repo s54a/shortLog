@@ -8,6 +8,12 @@ Do console.log() with just log()
 npm i s6g
 ```
 
+or
+
+```js
+npm i shortlog
+```
+
 ### How to Use
 
 ```js
