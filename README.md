@@ -5,6 +5,12 @@ Do console.log() with just log()
 ## Installation
 
 ```js
+npm i s6g
+```
+
+or
+
+```js
 npm i shortlog
 ```
 
