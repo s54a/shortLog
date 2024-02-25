@@ -2,6 +2,12 @@
 
 Do console.log() with just log()
 
+## Installation
+
+```js
+npm i shortlog
+```
+
 ### How to Use
 
 ```js
