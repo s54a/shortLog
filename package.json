@@ -1,6 +1,6 @@
 {
-  "name": "shortlog",
-  "version": "1.0.1",
+  "name": "s6g",
+  "version": "1.0.0",
   "description": "do console.log() with just log()",
   "main": "index.js",
   "scripts": {

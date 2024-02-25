@@ -5,7 +5,7 @@ Do console.log() with just log()
 ## Installation
 
 ```js
-npm i shortlog
+npm i s6g
 ```
 
 ### How to Use
