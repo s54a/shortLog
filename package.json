@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sninea/shortLog.git"
+    "url": "git+https://github.com/s54a/shortLog.git"
   },
   "keywords": [
     "console.log",
@@ -19,7 +19,7 @@
   "author": "Sooraj Gupta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sninea/shortLog/issues"
+    "url": "https://github.com/s54a/shortLog/issues"
   },
-  "homepage": "https://github.com/sninea/shortLog#readme"
+  "homepage": "https://github.com/s54a/shortLog#readme"
 }
